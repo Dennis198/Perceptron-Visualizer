@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.vscode
+
+# dependencies
+perceptron-visualizer/node_modules
+perceptron-visualizer/.pnp
+perceptron-visualizer/.pnp.js
+
+# testing
+perceptron-visualizer/coverage
+
+# production
+perceptron-visualizer/build
+
+# misc
+perceptron-visualizer.DS_Store
+perceptron-visualizer.env.local
+perceptron-visualizer.env.development.local
+perceptron-visualizer.env.test.local
+perceptron-visualizer.env.production.local
+
+perceptron-visualizer/npm-debug.log*
+perceptron-visualizer/yarn-debug.log*
+perceptron-visualizer/yarn-error.log*

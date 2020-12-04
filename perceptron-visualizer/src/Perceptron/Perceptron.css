@@ -1,0 +1,47 @@
+.perceptron{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+.perceptron__canvas__2dplane{
+    border: 4px solid black;
+}
+
+.perceptron__canvas{
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+.perceptron__canvas__right{
+    margin-top: auto;
+}
+
+.perceptron__canvas__right__info{
+    margin-left: 10px;
+    margin-bottom: 100px;
+    border: 0px solid black;
+}
+
+.perceptron__canvas__right__labels{
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.perceptron__canvas__right__labels > h4{
+    margin-right: 20px;
+}
+
+.perceptron__slider{
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 30%;
+}
+
+.perceptron__slider >h4{
+    margin-top: -10px;
+}
