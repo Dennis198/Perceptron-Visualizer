@@ -10,9 +10,6 @@ perceptron-visualizer/.pnp.js
 # testing
 perceptron-visualizer/coverage
 
-# production
-perceptron-visualizer/build
-
 # misc
 perceptron-visualizer.DS_Store
 perceptron-visualizer.env.local
