@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Quadtree-Visual/static/css/main.ef8d0eff.chunk.css",
-    "main.js": "/Quadtree-Visual/static/js/main.da86fa73.chunk.js",
-    "main.js.map": "/Quadtree-Visual/static/js/main.da86fa73.chunk.js.map",
-    "runtime-main.js": "/Quadtree-Visual/static/js/runtime-main.21edde1e.js",
-    "runtime-main.js.map": "/Quadtree-Visual/static/js/runtime-main.21edde1e.js.map",
-    "static/js/2.e079f146.chunk.js": "/Quadtree-Visual/static/js/2.e079f146.chunk.js",
-    "static/js/2.e079f146.chunk.js.map": "/Quadtree-Visual/static/js/2.e079f146.chunk.js.map",
-    "static/js/3.6e80bb67.chunk.js": "/Quadtree-Visual/static/js/3.6e80bb67.chunk.js",
-    "static/js/3.6e80bb67.chunk.js.map": "/Quadtree-Visual/static/js/3.6e80bb67.chunk.js.map",
-    "index.html": "/Quadtree-Visual/index.html",
-    "static/css/main.ef8d0eff.chunk.css.map": "/Quadtree-Visual/static/css/main.ef8d0eff.chunk.css.map",
-    "static/js/2.e079f146.chunk.js.LICENSE.txt": "/Quadtree-Visual/static/js/2.e079f146.chunk.js.LICENSE.txt"
+    "main.css": "/Perceptron-Visualizer/static/css/main.ef8d0eff.chunk.css",
+    "main.js": "/Perceptron-Visualizer/static/js/main.da86fa73.chunk.js",
+    "main.js.map": "/Perceptron-Visualizer/static/js/main.da86fa73.chunk.js.map",
+    "runtime-main.js": "/Perceptron-Visualizer/static/js/runtime-main.ce17a5c1.js",
+    "runtime-main.js.map": "/Perceptron-Visualizer/static/js/runtime-main.ce17a5c1.js.map",
+    "static/js/2.e079f146.chunk.js": "/Perceptron-Visualizer/static/js/2.e079f146.chunk.js",
+    "static/js/2.e079f146.chunk.js.map": "/Perceptron-Visualizer/static/js/2.e079f146.chunk.js.map",
+    "static/js/3.6e80bb67.chunk.js": "/Perceptron-Visualizer/static/js/3.6e80bb67.chunk.js",
+    "static/js/3.6e80bb67.chunk.js.map": "/Perceptron-Visualizer/static/js/3.6e80bb67.chunk.js.map",
+    "index.html": "/Perceptron-Visualizer/index.html",
+    "static/css/main.ef8d0eff.chunk.css.map": "/Perceptron-Visualizer/static/css/main.ef8d0eff.chunk.css.map",
+    "static/js/2.e079f146.chunk.js.LICENSE.txt": "/Perceptron-Visualizer/static/js/2.e079f146.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21edde1e.js",
+    "static/js/runtime-main.ce17a5c1.js",
     "static/js/2.e079f146.chunk.js",
     "static/css/main.ef8d0eff.chunk.css",
     "static/js/main.da86fa73.chunk.js"
